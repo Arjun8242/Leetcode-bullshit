@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
 | [0948-bag-of-tokens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0948-bag-of-tokens) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
