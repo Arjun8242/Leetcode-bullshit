@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
+| [0877-stone-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0890-lemonade-change) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0877-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1325,12 +1328,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
