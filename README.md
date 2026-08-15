@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
