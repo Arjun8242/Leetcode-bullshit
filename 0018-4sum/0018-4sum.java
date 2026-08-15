@@ -1,40 +1,51 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
-        List<List<Integer>> List=new ArrayList<>();
-        for(int h=0;h<nums.length;h++){
-            if (h > 0 && nums[h] == nums[h - 1]) {
-                continue;
-            }
-       for(int i=h+1;i<nums.length;i++){
-        if(i>h+1 && nums[i]==nums[i-1] ){
-            continue;
-        }
-        
-        int j=i+1;
-        int k=nums.length-1;
-        while(j<k){
-                long sum=(long)nums[h]+nums[i]+nums[j]+nums[k];
-                if(sum>target){
-                    k--;
-                }
-                else if(sum<target){
-                    j++;
-                }
-                else{
-                    List.add(Arrays.asList(nums[h],nums[i],nums[j],nums[k]));
-                    j++;
-                    k--;
-                    
-                    while(nums[j]==nums[j-1] && j<k){
-                       j++;
-                    }
-                    
-                }
-            }
-        }
-        }
-        return List;
-    }
+        List<List<Integer>> ans=new ArrayList<>();
+        int n=nums.length;
 
+        for(int i=0;i<n-3;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
+
+            for(int j=i+1;j<n-2;j++){
+                if(j>i+1 && nums[j]==nums[j-1]) continue;
+
+                int left=j+1;
+                int right=n-1;
+
+                while(left<right){
+                    long sum=(long)nums[i]+nums[j]+nums[left]+nums[right];
+
+                    if(target==sum){
+                        ans.add(Arrays.asList(
+                            nums[i],
+                            nums[j],
+                            nums[left],
+                            nums[right]
+                        ));
+
+                        while (left < right && nums[left] == nums[left + 1]) {
+                            left++;
+                        }
+
+                        while (left < right && nums[right] == nums[right - 1]) {
+                            right--;
+                        }
+
+                        left++;
+                        right--;
+                    }
+                    else if(sum<target){
+                        left++;
+                    }
+                    else{
+                        right--;
+                    }
+
+                }
+            }
+        }
+
+        return ans;
+    }
 }
