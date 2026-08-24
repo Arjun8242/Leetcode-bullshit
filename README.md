@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1072,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0743-network-delay-time) |
@@ -1105,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0092-reverse-linked-list-ii) |
@@ -1351,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Minimax
 |  |
@@ -1388,4 +1392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
