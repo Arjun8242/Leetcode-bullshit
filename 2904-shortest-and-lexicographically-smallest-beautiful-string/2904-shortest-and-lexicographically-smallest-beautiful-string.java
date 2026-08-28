@@ -1,25 +1,29 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
         int n=s.length();
-
-        int[] freq=new int[n];
-
-        for(int i=0;i<n;i++){
-            freq[i]=(i>0?freq[i-1]:0);
-
-            if(s.charAt(i)=='1') freq[i]++;
-        }
-
+        int ones=0;
         String ans="";
         int minlen=Integer.MAX_VALUE;
+        int left=0;
 
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                int ones=freq[j]-(i>0?freq[i-1]:0);
+        for(int right=0;right<n;right++){
+            if(s.charAt(right)=='1') ones++;
 
-                if(ones==k){
-                    int len=j-i+1;
-                    String sub=s.substring(i, j+1);
+            while(ones>k){
+                if(s.charAt(left)=='1'){
+                    ones--;
+                }
+                left++;
+            }
+
+            if(ones==k){
+
+                while(s.charAt(left)=='0'){
+                    left++;
+                }
+
+                    int len=right-left+1;
+                    String sub=s.substring(left, right+1);
 
                     if(len<minlen){
                         minlen=len;
@@ -29,9 +33,10 @@ class Solution {
                     else if(len==minlen && sub.compareTo(ans)<0){
                         ans=sub;
                     }
-                }
             }
         }
+
+    
         return ans;
     }
 }
