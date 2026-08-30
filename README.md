@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2101-detonate-the-maximum-bombs) |
 | [2121-intervals-between-identical-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2121-intervals-between-identical-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1927-sum-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
