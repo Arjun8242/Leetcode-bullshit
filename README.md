@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-word-squares-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3799-word-squares-ii) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3838-weighted-word-mapping](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3903-smallest-stable-index-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
