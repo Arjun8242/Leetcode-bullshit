@@ -1443,5 +1443,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
