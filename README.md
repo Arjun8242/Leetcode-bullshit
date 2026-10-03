@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0045-jump-game-ii) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0058-length-of-last-word) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0085-maximal-rectangle) |
@@ -1444,5 +1447,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
