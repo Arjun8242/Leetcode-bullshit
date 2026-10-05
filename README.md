@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0151-reverse-words-in-a-string) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0151-reverse-words-in-a-string) |
