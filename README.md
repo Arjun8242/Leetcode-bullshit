@@ -795,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0944-delete-columns-to-make-sorted) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0856-score-of-parentheses) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0943-sum-of-subarray-minimums) |
@@ -1450,5 +1452,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
