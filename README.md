@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0948-bag-of-tokens) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0944-delete-columns-to-make-sorted) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0856-score-of-parentheses) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
@@ -1453,5 +1456,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
