@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [1980-find-unique-binary-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1980-find-unique-binary-string) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0424-longest-repeating-character-replacement) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0542-01-matrix) |
