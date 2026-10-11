@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2751-robot-collisions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
