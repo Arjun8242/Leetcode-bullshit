@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3606-coupon-code-validator](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3634-minimum-removals-to-balance-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-word-squares-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3799-word-squares-ii) |
 ## Math
 |  |
