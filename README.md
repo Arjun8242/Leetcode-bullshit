@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
