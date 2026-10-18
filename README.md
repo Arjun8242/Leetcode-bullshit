@@ -1401,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1280-students-and-examinations) |
+| [1527-patients-with-a-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1789-primary-department-for-each-employee) |
