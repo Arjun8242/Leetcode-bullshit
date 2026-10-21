@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3799-word-squares-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
