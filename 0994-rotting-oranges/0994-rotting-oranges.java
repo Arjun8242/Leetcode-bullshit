@@ -1,45 +1,48 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<int[]> queue=new LinkedList<>();
-        int n=grid[0].length;
-        int m=grid.length;
         int total=0;
-        int days=0;
-        int count=0;
-        int[][] dirs={{0,1}, {1,0}, {0,-1}, {-1,0}};
+        int n=grid.length;
+        int m=grid[0].length;
+        int fresh=0;
+        int time=0;
+        int[][] dirs={{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
+        Queue<int[]> queue = new LinkedList<>();
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
-                    queue.offer(new int[]{i, j});
+                    queue.offer(new int[] {i, j});
                 }
-                else if(grid[i][j]==1){
-                    total++;
+
+                if(grid[i][j]==1){
+                    fresh++;
                 }
             }
         }
 
-        if(total==0) return 0;
+        if(fresh==0) return 0;
 
         while(!queue.isEmpty()){
             int size=queue.size();
+
             for(int i=0;i<size;i++){
-                int[] cell=queue.poll();
-                int x=cell[0];
-                int y=cell[1];
+                int[] curr=queue.poll();
+                int x=curr[0];
+                int y=curr[1];
+
                 for(int[] d:dirs){
-                    int nx=x+d[0];
-                    int ny=y+d[1];
-                    if(nx>=0 && ny>=0 && nx<m && ny<n && grid[nx][ny]==1){
-                        grid[nx][ny]=2;
-                        queue.offer(new int[]{nx, ny});
-                        count++;
+                    int dx=x+d[0];
+                    int dy=y+d[1];
+
+                    if(dx<n && dx>=0 && dy<m && dy>=0 && grid[dx][dy]==1){
+                        grid[dx][dy]=2;
+                        queue.offer(new int[]{dx, dy});
+                        total++;
                     }
                 }
             }
-            days++;
+            time++;
         }
-        days = days > 0 ? days - 1 : days;
-        return total==count?days:-1;
+        return total==fresh?time-1:-1;
     }
 }
