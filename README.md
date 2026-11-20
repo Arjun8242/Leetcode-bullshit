@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1121-partition-array-for-maximum-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1162-as-far-from-land-as-possible) |
 | [1250-longest-common-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1250-longest-common-subsequence) |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1301-number-of-paths-with-max-score](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
